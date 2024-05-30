@@ -1791,19 +1791,6 @@ main {
   background: var(--colorPrimary);
 }
 
-.tf__single_skill_2 .tf__team_skills_bar_single .tip::after {
-  position: absolute;
-  content: '';
-  background: url(../images/skills_shape.png);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 40px;
-  height: 40px;
-  top: -7px;
-  right: -4px;
-}
-
 .tf__single_skill_2 .barfiller .tip {
   margin-top: -43px;
   font-size: 13px;
